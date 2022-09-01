@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Aboreto&family=Open+Sans:wght@300&display=swap');
+
+
+body{
+    margin: 0;
+    background-color: black;
+    box-sizing: border-box;
+    background-color: black;
+}
+.navbar{
+    border-bottom: 3px solid rgb(209, 209, 211);
+}
+
+#navbarSupportedContent{
+    margin: 0px 20px;
+}
+
+.bg{
+    padding: 10px;
+    height: 100vh;
+    background-size: cover;
+    
+}
+
+.home{
+    background-image: url(../Images/Background.jpg);
+}
+
+.profile img{
+    margin-top: -50px;
+    max-width: 200px;
+    margin-bottom: 10px;
+    position: relative;
+}
+
+.profile-Text{
+    margin: auto;
+    
+}
+
+section{
+    margin: 10px;
+    box-sizing: border-box;
+}
+
+.separator{
+    margin: 20px 200px 50px 200px;
+    border-bottom: 1px solid blue;
+}
+
+.card{
+    margin: 5px;
+}
+
+ul{
+    list-style-type: none;
+}
+
+.project-img{
+    max-width: 200px;
+    margin-left: 50px;
+}
+
